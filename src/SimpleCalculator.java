@@ -1,4 +1,4 @@
-package <CIS350>;
+//package <CIS350>;
 public class SimpleCalculator {
 public int add(int a, int b) {
 return a + b;
